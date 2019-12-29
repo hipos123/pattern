@@ -1,4 +1,4 @@
-package com.yaoxj.singletonpattern.lazy.nested;
+package com.yaoxj.singletonpattern.nested;
 
 /**
  * @description:

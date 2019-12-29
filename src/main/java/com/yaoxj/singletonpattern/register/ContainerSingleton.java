@@ -1,4 +1,4 @@
-package com.yaoxj.singletonpattern.lazy.register;
+package com.yaoxj.singletonpattern.register;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

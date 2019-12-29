@@ -1,6 +1,4 @@
-package com.yaoxj.singletonpattern.lazy.nested;
-
-import com.yaoxj.singletonpattern.lazy.base.LazySingleton;
+package com.yaoxj.singletonpattern.nested;
 
 /**
  * @description:
