@@ -86,7 +86,7 @@ http://www.imooc.com/article/270302
 delegate关键字活dispatcher关键字的一般都属于委派模式
 
 
-
+八，适配器模式（不改变原来的代码，记得兼容原来的业务，也得保证新的业务也正常执行）
 
 
 
